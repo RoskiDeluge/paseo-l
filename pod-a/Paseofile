@@ -1,0 +1,7 @@
+ENTITY "Midtown Community Garden"
+AGENT "./agent.wasm"
+MEMORY "./state.json"
+HOOK onMessage "handle_message"
+HOOK onSync "sync_state"
+CAPABILITY "chat"
+
