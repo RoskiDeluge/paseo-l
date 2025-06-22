@@ -1,8 +1,8 @@
 # Paseo-l
 
-**Paseo-l** is a lightweight agent runtime built on WebAssembly. Inspired by the structural elegance of biological viruses, Paseo agents are small, self-contained, and catalytic—they assume a capable host and connect entities through minimal, declarative pods.
+**Paseo-L** is a lightweight agent runtime built on WebAssembly. Inspired by the structural elegance of biological viruses, Paseo agents are small, self-contained, and catalytic—they assume a capable host and connect entities through minimal, declarative pods.
 
-Paseo-l provides a foundation for a future in which every real-world entity—person, place, idea, organization—can have a living counterpart in a WASM-backed environment.
+Paseo-L provides a foundation for a future in which every real-world entity—person, place, idea, organization—can have a living counterpart in a WASM-backed environment.
 
 ---
 
